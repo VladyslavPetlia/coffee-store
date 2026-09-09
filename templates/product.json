@@ -1,0 +1,254 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "judge_me_reviews_preview_badge_DtyKGj": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "square"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "judge_me_reviews_preview_badge_DtyKGj",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail",
+        "mobile_thumbnails": "hide",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "disclosures": {
+      "type": "disclosures",
+      "settings": {
+        "heading": "Disclosures",
+        "heading_size": "h2",
+        "open_by_default": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "1786882396a3e147fd": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_RtiQJc": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_RtiQJc"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "multicolumn_gR84eD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3NEWtY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/icon-coffee-bean.svg",
+            "title": "Processing",
+            "text": "{{ product.metafields.custom.processing | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rrii6x": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/mynaui_map-pin.svg",
+            "title": "Source",
+            "text": "{{ product.metafields.custom.source | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EgjUgi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/icon-coffee-cup.svg",
+            "title": "Flavors",
+            "text": "{{ product.metafields.custom.flavors | metafield_tag }}",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3NEWtY",
+        "column_rrii6x",
+        "column_EgjUgi"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Coffee Details",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multi_section_row_9drCXE": {
+      "type": "multi-section-row",
+      "blocks": {
+        "multi_section_mUT7H4": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Sourcing.svg",
+            "title": "Responsible Sourcing",
+            "title_size": 16,
+            "description": "<p>Our coffee is sourced directly from producers worldwide who share our devotion to freshly harvested coffee and sustainable farming. We proudly offer USDA-certified organic coffee.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/more-than-a-cafe-our-blueprint-for-eco-friendly-coffee-and-community"
+          }
+        },
+        "multi_section_XHncbE": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Roasting.svg",
+            "title": "Small Batch Roasting",
+            "title_size": 16,
+            "description": "<p>We take great pride in the art of coffee roasting. We understand that each cup of coffee is unique and warrants the utmost attention to detail. That’s why we roast only in small batches.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/conscious-coffee-why-responsible-sourcing-makes-your-cup-taste-better"
+          }
+        },
+        "multi_section_JwJFNy": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Sustainability.svg",
+            "title": "Sustainability & Community",
+            "title_size": 16,
+            "description": "<p>We believe that by collaborating with small holder farmers, we can help them achieve sustainable and profitable farming practices that benefit both the environment and their communities.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/behind-the-scenes-the-art-and-science-of-our-roasting-process"
+          }
+        }
+      },
+      "block_order": [
+        "multi_section_mUT7H4",
+        "multi_section_XHncbE",
+        "multi_section_JwJFNy"
+      ],
+      "name": "Multi Section Row",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "block-item_content": "center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "disclosures",
+    "related-products",
+    "1786882396a3e147fd",
+    "multicolumn_gR84eD",
+    "multi_section_row_9drCXE"
+  ]
+}

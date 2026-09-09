@@ -1,0 +1,215 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "faq_JcLVeP": {
+      "type": "faq",
+      "blocks": {
+        "faq_item_BB4Wwk": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How should I store my coffee beans?",
+            "answer": "<p>Keep beans in an airtight, opaque container away from heat, light, moisture, and air.</p>"
+          }
+        },
+        "faq_item_AgkyHd": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Should I store coffee in the fridge or freezer?",
+            "answer": "<p>No. Fridges and freezers introduce moisture, condensation, and unwanted food odors that ruin the flavor.</p>"
+          }
+        },
+        "faq_item_RjGzJm": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How long do roasted coffee beans stay fresh?",
+            "answer": "<p>Whole beans taste best when used within two to four weeks of their roasting date.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_BB4Wwk",
+        "faq_item_AgkyHd",
+        "faq_item_RjGzJm"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "heading": "Storage and Freshness",
+        "two_columns": false,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "section-color_scheme": ""
+      }
+    },
+    "faq_f94LpQ": {
+      "type": "faq",
+      "blocks": {
+        "faq_item_NhYydj": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Should I buy whole bean or pre-ground coffee?",
+            "answer": "<p>Whole beans stay fresh much longer. Grind your beans right before brewing for the best taste.</p>"
+          }
+        },
+        "faq_item_4b3gAe": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Can you grind the beans for me?",
+            "answer": "<p>Yes, let us know your brewing method, and we can grind the beans to the right size for your machine.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_NhYydj",
+        "faq_item_4b3gAe"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "heading": "Grinding and Brewing",
+        "two_columns": false,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "section-color_scheme": ""
+      }
+    },
+    "faq_4YbDMr": {
+      "type": "faq",
+      "blocks": {
+        "faq_item_nR8eNK": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Do you offer a coffee subscription?",
+            "answer": "<p>Yes, you can choose your favorite beans and set delivery intervals to fit your routine.</p>"
+          }
+        },
+        "faq_item_3iPYY3": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Can I change or cancel my subscription?",
+            "answer": "<p>You can modify, pause, or cancel your subscription at any time through your account portal.</p>"
+          }
+        },
+        "faq_item_hCTNfT": {
+          "type": "faq_item",
+          "settings": {
+            "question": "When will my order ship after roasting?",
+            "answer": "<p>We ship orders within 24 to 48 hours of roasting to ensure ultimate freshness.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_nR8eNK",
+        "faq_item_3iPYY3",
+        "faq_item_hCTNfT"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "heading": "Ordering and Subscriptions",
+        "two_columns": false,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "section-color_scheme": ""
+      }
+    },
+    "faq_LKrmbb": {
+      "type": "faq",
+      "blocks": {
+        "faq_item_jihRwH": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Are your coffee beans organic?",
+            "answer": "<p>We source organic beans whenever possibl, and organic options are explicitly labeled on our product pages.</p>"
+          }
+        },
+        "faq_item_t36eLR": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What is Fair Trade coffee?",
+            "answer": "<p>Fair Trade ensures farmers receive fair wages, safe working conditions, and sustainable environmental practices.</p>"
+          }
+        },
+        "faq_item_deft4g": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Where do your coffee beans come from?",
+            "answer": "<p>We source single-origin beans and blend components from top growing regions in Africa, Asia, and Latin America.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_jihRwH",
+        "faq_item_t36eLR",
+        "faq_item_deft4g"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "heading": "Sourcing and Sustainability",
+        "two_columns": false,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "section-color_scheme": ""
+      }
+    },
+    "faq_nPw7Ap": {
+      "type": "faq",
+      "blocks": {
+        "faq_item_bgbXiW": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What is the difference between light, medium, and dark roasts?",
+            "answer": "<p>Light roasts are bright and fruity; medium roasts are balanced; dark roasts are bold and smoky.</p>"
+          }
+        },
+        "faq_item_3YL6p8": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What does \"Single-Origin\" mean?",
+            "answer": "<p>Single-origin coffee comes from a specific country, region, or single farm rather than a blend.</p>"
+          }
+        },
+        "faq_item_3hfDRM": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What is the \"Roast Date\" and why does it matter?",
+            "answer": "<p>The roast date tells you exactly when the beans were roasted so you can track peak flavor freshness.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_bgbXiW",
+        "faq_item_3YL6p8",
+        "faq_item_3hfDRM"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "heading": "Roasting and Flavor",
+        "two_columns": false,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "section-color_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq_JcLVeP",
+    "faq_f94LpQ",
+    "faq_4YbDMr",
+    "faq_LKrmbb",
+    "faq_nPw7Ap"
+  ]
+}

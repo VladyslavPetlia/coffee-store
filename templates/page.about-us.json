@@ -1,0 +1,131 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "page_banner_XzXXai": {
+      "type": "page-banner",
+      "name": "Page Banner",
+      "settings": {
+        "page_metaobject_banner": "who-we-are",
+        "section-color_scheme": "scheme-1",
+        "bg_color": "#ffffff",
+        "border_radius": 0
+      }
+    },
+    "multirow_6yV4FL": {
+      "type": "multirow",
+      "blocks": {
+        "row_z6HKcy": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/katya-ross-Adg9B8NTxj0-unsplash.avif",
+            "caption": "",
+            "heading": "Sourcing",
+            "text": "<p>We source 100% premium Arabica beans through ethical supply chains that prioritize environmental sustainability and fair compensation for farmers across Africa, Asia, and Latin America. By working closely with trusted cooperatives and prioritizing certified organic lots, we ensure that every harvest is grown without harmful synthetic pesticides and under safe labor conditions. Every single-origin coffee and blend component we select is chosen not just for its exceptional flavor profile, but for the positive, lasting impact its production leaves on both the local ecosystem and the farming community behind it.<br/><br/></p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_LLFNPJ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/battlecreek-coffee-roasters-mY4hAwxNA_0-unsplash.avif",
+            "caption": "",
+            "heading": "Row",
+            "text": "<p>We roast our beans in small, precise batches to unlock the unique flavor characteristics inherent to each specific origin. By monitoring temperature curves and airflow, our roasters tailor the profile of every batch to highlight bright fruit notes in our light roasts, balanced sweetness in our medium roasts, and bold, smoky depth in our dark roasts. This meticulous process ensures that every bag of coffee we package delivers exceptional consistency, radical freshness, and maximum aromatic flavor straight to your cup.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_KfUc8H": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/tabitha-turner-3n3mPoGko8g-unsplash.jpg",
+            "caption": "",
+            "heading": "History",
+            "text": "<p><strong>Coffee Beans</strong> grew from a simple backyard hobby into a fully realized development project fueled by a deep frustration with overly complicated coffee culture. Founded by a small group of lifelong friends and self-taught home roasters, the brand was created to cut through the industry fluff and bring the focus back to the raw, uncompromised quality of the bean itself. Over months of rigorous trial, error, and meticulous roasting experiments in a garage, we refined our craft and established a reliable network of ethical farm partnerships. Today, we operate as a modern development store, continually testing new roast profiles and expanding our community of passionate coffee lovers who appreciate straightforward, exceptional flavor.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_z6HKcy",
+        "row_LLFNPJ",
+        "row_KfUc8H"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-right",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banners_RtJmD4": {
+      "type": "banners",
+      "blocks": {
+        "banner_rDNG3C": {
+          "type": "banner",
+          "settings": {
+            "banner_image": "shopify://shop_images/enis-yavuz-rW80wuuhRME-unsplash.avif",
+            "banner-top_description": "<p>Premium Whole Bean</p>",
+            "heading": "Our Coffees",
+            "banner-bottom_description": "<p>Freshly Roasted Daily</p>",
+            "button_label": "Shop Now",
+            "button_url": "shopify://collections/all"
+          }
+        },
+        "banner_yHGFqJ": {
+          "type": "banner",
+          "settings": {
+            "banner_image": "shopify://shop_images/matt-hoffman-72qDM1TA5p8-unsplash.avif",
+            "banner-top_description": "<p>Expert Coffee </p><p>Insights</p>",
+            "heading": "Our Blog",
+            "banner-bottom_description": "<p>Master Your Brew</p>",
+            "button_label": "Read More",
+            "button_url": "shopify://blogs/news"
+          }
+        }
+      },
+      "block_order": [
+        "banner_rDNG3C",
+        "banner_yHGFqJ"
+      ],
+      "name": "Banners",
+      "settings": {
+        "section_title": "",
+        "color_scheme": "scheme-48edda1f-7afe-4a9f-a860-47b6fde89c67"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "page_banner_XzXXai",
+    "multirow_6yV4FL",
+    "banners_RtJmD4"
+  ]
+}

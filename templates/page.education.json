@@ -1,0 +1,143 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "page_banner_a9t3Kf": {
+      "type": "page-banner",
+      "name": "Page Banner",
+      "settings": {
+        "page_metaobject_banner": "specialty-coffee-masterclass",
+        "section-color_scheme": "",
+        "bg_color": "#ffffff",
+        "border_radius": 0
+      }
+    },
+    "multirow_e44nDJ": {
+      "type": "multirow",
+      "blocks": {
+        "row_7m4E9P": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/dang-cong-JqF4IS65xEg-unsplash.avif",
+            "caption": "Caption",
+            "heading": "The Chemistry of Terroir and Altitude",
+            "text": "<p>Coffee grown above 1,500 meters matures slowly, creating dense beans with high concentrations of complex sugars and organic acids. Nutrient-rich volcanic earth injects high levels of phosphorus and potassium, fueling intense, vibrant acidity. Extreme night-to-day temperature swings force the coffee cherry to contract and expand, concentrating sweetness in the seed.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_TmUcm8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/katya-ross-Adg9B8NTxj0-unsplash.avif",
+            "caption": "Caption",
+            "heading": "Botanical Varieties (Arabica Lineage)",
+            "text": "<p>Typica and Bourbon form the genetic base of Arabica, yielding classic, clean cup profiles with elegant sweetness and mild acidity. The prized Gesha heirloom is famous for its delicate, tea-like body, jasmine aroma, and explosive stone fruit notes. Pacamara is a large-bean hybrid offering complex, savory characteristics, ranging from sweet citrus to herbal and distinct tobacco notes. Kenyan SL-28 and SL-34 cultivars are highly sought after for their intense, savory blackcurrant acidity and heavy, syrupy mouthfeel.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_DijBpx": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/pexels-michael-burrows-7125750.avif",
+            "caption": "Caption",
+            "heading": "Processing and Fermentation Micro-Variables",
+            "text": "<p>Washed processing removes mucilage before drying, highlighting the pure, clean, terroir-driven acidity and distinct floral notes of the bean. Natural processing dries cherries whole, allowing wild ambient yeasts to ferment sugars, resulting in heavy bodies and intense winey berry notes. Honey processing leaves specific amounts of sticky mucilage on the bean during drying to balance natural sweetness with crisp acidity. Anaerobic maceration seals fermentation in oxygen-free stainless steel tanks, producing lactic acids and ultra-complex, tropical fruit aromas.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_7m4E9P",
+        "row_TmUcm8",
+        "row_DijBpx"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-right",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "multi_section_row_KyY4rG": {
+      "type": "multi-section-row",
+      "blocks": {
+        "multi_section_7EQiY9": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Sourcing.svg",
+            "title": "Responsible Sourcing",
+            "title_size": 16,
+            "description": "<p>Our coffee is sourced directly from producers worldwide who share our devotion to freshly harvested coffee and sustainable farming. We proudly offer USDA-certified organic coffee.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/more-than-a-cafe-our-blueprint-for-eco-friendly-coffee-and-community"
+          }
+        },
+        "multi_section_74Hm78": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Roasting.svg",
+            "title": "Small Batch Roasting",
+            "title_size": 16,
+            "description": "<p>We take great pride in the art of coffee roasting. We understand that each cup of coffee is unique and warrants the utmost attention to detail. That's why we roast only in small batches.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/conscious-coffee-why-responsible-sourcing-makes-your-cup-taste-better"
+          }
+        },
+        "multi_section_ddzaFp": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Sustainability.svg",
+            "title": "Sustainability & Community",
+            "title_size": 16,
+            "description": "<p>We believe that by collaborating with small holder farmers, we can help them achieve sustainable and profitable farming practices that benefit both the environment and their communities.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/behind-the-scenes-the-art-and-science-of-our-roasting-process"
+          }
+        }
+      },
+      "block_order": [
+        "multi_section_7EQiY9",
+        "multi_section_74Hm78",
+        "multi_section_ddzaFp"
+      ],
+      "name": "Multi Section Row",
+      "settings": {
+        "color_scheme": "",
+        "block-item_content": "center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "page_banner_a9t3Kf",
+    "multirow_e44nDJ",
+    "multi_section_row_KyY4rG"
+  ]
+}

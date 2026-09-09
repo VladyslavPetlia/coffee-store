@@ -1,0 +1,743 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_PB89Nb": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_FajN7w": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/top-view-coffee-accessories-with-copy-space.avif",
+            "image_overlay_opacity": 0,
+            "heading": "Small-Batch Roasts, Fresh Delivery",
+            "heading_size": "h1",
+            "subheading": "Taste the difference of specialty coffee beans roasted by hand every single week.",
+            "button_label": "Shop All Beans",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-48edda1f-7afe-4a9f-a860-47b6fde89c67"
+          }
+        },
+        "slide_DhTRTH": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/enis-yavuz-rW80wuuhRME-unsplash.avif",
+            "image_overlay_opacity": 0,
+            "heading": "Never Run Out of Coffee Again",
+            "heading_size": "h1",
+            "subheading": "Join our flexible monthly club and get freshly roasted bags delivered straight to your door.",
+            "button_label": "Explore Subscriptions",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-48edda1f-7afe-4a9f-a860-47b6fde89c67"
+          }
+        },
+        "slide_wUUpdK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/warm-holiday-drink-decor.avif",
+            "image_overlay_opacity": 0,
+            "heading": "Ethically Sourced From Top Farms",
+            "heading_size": "h1",
+            "subheading": "We partner directly with sustainable growers to bring you rare, organic single-origin flavors.",
+            "button_label": "Learn Our Story",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-48edda1f-7afe-4a9f-a860-47b6fde89c67"
+          }
+        },
+        "slide_BGCYed": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/latte-art.avif",
+            "image_overlay_opacity": 0,
+            "heading": "Whole Bean or Custom Grind",
+            "heading_size": "h1",
+            "subheading": "Perfect your morning routine with specific grinds tailored for espresso, drip, or French press.",
+            "button_label": "Find Your Grind",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "show_text_box": true,
+            "box_align": "middle-left",
+            "text_alignment": "left",
+            "text_alignment_mobile": "center",
+            "color_scheme": "scheme-48edda1f-7afe-4a9f-a860-47b6fde89c67"
+          }
+        }
+      },
+      "block_order": [
+        "slide_FajN7w",
+        "slide_DhTRTH",
+        "slide_wUUpdK",
+        "slide_BGCYed"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 8,
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-a219542d-b1d2-4ebb-9880-8b8f2d64a189",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "1786884207c1a5a27b": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_cards_carousel_MQ8fJx": {
+          "type": "shopify://apps/judge-me-reviews/blocks/cards_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "show_sample_reviews": true,
+            "reviews_selection": "all",
+            "products": [
+              "coffee-beans-brazil-yellow-catuai",
+              "coffee-beans-ethiopia-heirloom",
+              "coffee-beans-guatemala-bourbon-maragogype",
+              "coffee-beans-costa-rica-caturra-catual",
+              "coffee-beans-colombia-pink-bourbon",
+              "coffee-beans-kenya-sl28-sl34",
+              "coffee-beans-indonesia-ateng-typica",
+              "coffee-beans-panama-geisha",
+              "coffee-beans-salvador-pacamara",
+              "coffee-beans-yemeni-heirloom"
+            ],
+            "filter_pinned": false,
+            "filter_featured": false,
+            "filter_custom_tags": "",
+            "star_rating": "all",
+            "show_review_media": true,
+            "display_order": "media_first",
+            "no_image_fallback": "review_text_only",
+            "max_reviews": 20,
+            "review_length": "medium",
+            "text_size": "medium",
+            "image_ratio": "1",
+            "reviews_shown": 4,
+            "show_reviewer_name": true,
+            "show_product_name": true,
+            "hide_arrows_mobile": true,
+            "arrows_position": "sides",
+            "max_width": 1100,
+            "corner_styling": "square",
+            "header_text_color": "#0f1012",
+            "text_color": "#0f1012",
+            "card_color": "#ffffff",
+            "stars_color": "#e96134",
+            "arrows_color": "#6d3e1c",
+            "transition_speed": 5,
+            "header_text": "Customers are saying",
+            "show_average_rating": true,
+            "rating_display": "default"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_cards_carousel_MQ8fJx"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "purelane_categories_idYLUe": {
+      "type": "purelane-categories",
+      "blocks": {
+        "category_E6RmRy": {
+          "type": "category",
+          "settings": {
+            "product": "coffee-beans-brazil-yellow-catuai",
+            "heading": "Coffee Beans Brazil",
+            "note": "Yellow Catuai",
+            "link": "shopify://products/coffee-beans-brazil-yellow-catuai"
+          }
+        },
+        "category_ifXEc4": {
+          "type": "category",
+          "settings": {
+            "product": "coffee-beans-kenya-sl28-sl34",
+            "heading": "Coffee Beans Kenya",
+            "note": "SL28 & SL34",
+            "link": "shopify://products/coffee-beans-kenya-sl28-sl34"
+          }
+        },
+        "category_gKDFaq": {
+          "type": "category",
+          "settings": {
+            "product": "coffee-beans-yemeni-heirloom",
+            "heading": "Coffee Beans Yemeni",
+            "note": "Heirloom",
+            "link": "shopify://products/coffee-beans-yemeni-heirloom"
+          }
+        },
+        "category_w9mzYV": {
+          "type": "category",
+          "settings": {
+            "product": "coffee-beans-guatemala-bourbon-maragogype",
+            "heading": "Coffee Beans Guatemala",
+            "note": "Bourbon & Maragogype",
+            "link": "shopify://products/coffee-beans-guatemala-bourbon-maragogype"
+          }
+        }
+      },
+      "block_order": [
+        "category_E6RmRy",
+        "category_ifXEc4",
+        "category_gKDFaq",
+        "category_w9mzYV"
+      ],
+      "name": "Categories",
+      "settings": {
+        "kicker": "Shop Fresh Coffee",
+        "heading": "Wake Up to Real Flavor",
+        "header_align": "center",
+        "scene": 4,
+        "anchor": "categories",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 30
+      }
+    },
+    "custom_flexbox_KN96Bq": {
+      "type": "custom-flexbox",
+      "blocks": {
+        "wrapper_YgywWK": {
+          "type": "wrapper",
+          "name": "Section Flexbox",
+          "settings": {
+            "gap": 0,
+            "flex_direction": "row",
+            "align_items": "stretch",
+            "flex_direction_mobile": "column"
+          },
+          "blocks": {
+            "container_W7MYX9": {
+              "type": "container",
+              "name": "Container",
+              "settings": {
+                "width": 100,
+                "background_color": "",
+                "color_scheme": "",
+                "border_radius": 0,
+                "gap": 20,
+                "padding_vertical": 30,
+                "padding_horizontal": 0,
+                "flex_direction": "row",
+                "css_id": "",
+                "css_class": ""
+              },
+              "blocks": {
+                "image_a78J3h": {
+                  "type": "image",
+                  "name": "Image",
+                  "settings": {
+                    "image": "shopify://shop_images/janko-ferlic-h9Iq22JJlGk-unsplash.avif",
+                    "alt": "",
+                    "width": 500,
+                    "horizontal_align": "left",
+                    "margin_bottom": 0,
+                    "horizontal_align_mobile": "left"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "image_a78J3h"
+              ]
+            },
+            "container_X7P7UC": {
+              "type": "container",
+              "name": "Container",
+              "settings": {
+                "width": 100,
+                "background_color": "",
+                "color_scheme": "",
+                "border_radius": 0,
+                "gap": 20,
+                "padding_vertical": 30,
+                "padding_horizontal": 0,
+                "flex_direction": "column",
+                "css_id": "",
+                "css_class": ""
+              },
+              "blocks": {
+                "heading_iNXWiJ": {
+                  "type": "heading",
+                  "name": "Heading",
+                  "settings": {
+                    "heading": "The Best Coffee",
+                    "tag": "h2",
+                    "text_align": "center",
+                    "margin_bottom": 0,
+                    "text_align_mobile": "left"
+                  },
+                  "blocks": {}
+                },
+                "rich_text_UEVfhy": {
+                  "type": "rich-text",
+                  "name": "Text",
+                  "settings": {
+                    "text": "<p>Crafting the perfect cup of coffee requires a harmonious alignment of high-altitude Arabica beans, precise roasting that balances terroir with chemical reactions, and careful brewing control over water, grind, and temperature. This process transforms beans from distinct origins, such as Ethiopian Yirgacheffe, into a beverage offering complex flavors, ranging from floral light roasts to robust medium roasts. The ultimate quality is achieved by respecting the meticulous journey from farm to cup.</p>",
+                    "text_align": "left",
+                    "margin_bottom": 0,
+                    "text_align_mobile": "left"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "heading_iNXWiJ",
+                "rich_text_UEVfhy"
+              ]
+            }
+          },
+          "block_order": [
+            "container_W7MYX9",
+            "container_X7P7UC"
+          ]
+        }
+      },
+      "block_order": [
+        "wrapper_YgywWK"
+      ],
+      "name": "Section Flexbox",
+      "settings": {
+        "color_scheme": "",
+        "background_color": "",
+        "background_size": "cover",
+        "background_repeat": "no-repeat",
+        "background_position_x": 50,
+        "background_position_y": 50,
+        "fullwidth": false,
+        "gap": 50,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "css_id": "",
+        "css_class": ""
+      }
+    },
+    "multi_section_Vgen6z": {
+      "type": "multi-section",
+      "blocks": {
+        "multi_section_LeRJGC": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Package12.avif",
+            "title": "Coffee Beans Indonesia Ateng & Typica",
+            "title_size": 16,
+            "description": "<p>Discover the rich, complex flavors of Indonesia's finest coffee beans. This premium blend combines Ateng and Typica varieties, sourced from the volcanic highlands where ideal growing conditions create exceptional depth and character. Expect earthy undertones with subtle spice notes and a smooth, full body.<br/><br/></p>",
+            "link_text": "See more",
+            "url": "shopify://products/coffee-beans-indonesia-ateng-typica"
+          }
+        },
+        "multi_section_rtEiYU": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Package9.avif",
+            "title": "Coffee Beans Ethiopia",
+            "title_size": 16,
+            "description": "<p>Discover the rich, complex flavors of our Ethiopia Heirloom coffee beans.</p>",
+            "link_text": "See more",
+            "url": "shopify://products/coffee-beans-ethiopia-heirloom"
+          }
+        },
+        "multi_section_FkEAyx": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Package10.avif",
+            "title": "Coffee Beans Guatemala",
+            "title_size": 16,
+            "description": "<p>Discover the rich complexity of Guatemala's finest coffee beans.</p>",
+            "link_text": "See more",
+            "url": "shopify://products/coffee-beans-guatemala-bourbon-maragogype"
+          }
+        },
+        "multi_section_qBeW37": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Package11.avif",
+            "title": "Coffee Beans Costa Rica",
+            "title_size": 16,
+            "description": "<p>Discover the rich, balanced flavors of our Costa Rican coffee blend featuring Caturra and Catual varieties.</p>",
+            "link_text": "See more",
+            "url": "shopify://products/coffee-beans-costa-rica-caturra-catual"
+          }
+        },
+        "multi_section_tUXXjX": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/Package2.avif",
+            "title": "Coffee Beans Colombia",
+            "title_size": 16,
+            "description": "<p>Discover the delicate complexity of Colombia Pink Bourbon coffee beans.</p>",
+            "link_text": "See more",
+            "url": "shopify://products/coffee-beans-colombia-pink-bourbon"
+          }
+        }
+      },
+      "block_order": [
+        "multi_section_LeRJGC",
+        "multi_section_rtEiYU",
+        "multi_section_FkEAyx",
+        "multi_section_qBeW37",
+        "multi_section_tUXXjX"
+      ],
+      "name": "Multi Section (Max 3 or 5 per section)",
+      "settings": {
+        "color_scheme": ""
+      }
+    },
+    "avpc_product_quiz_KJeU7w": {
+      "type": "avpc-product-quiz",
+      "blocks": {
+        "question_piKqx8": {
+          "type": "question",
+          "settings": {
+            "question": "What texture or body do you prefer?",
+            "answer_1": "Medium, balanced, and round",
+            "products_1": "3",
+            "answer_2": "Heavy, creamy, and velvety smooth",
+            "products_2": "1",
+            "answer_3": "Light, crisp, and clean like tea",
+            "products_3": "2,4"
+          }
+        },
+        "question_7fKqd6": {
+          "type": "question",
+          "settings": {
+            "question": "How do you brew your coffee at home?",
+            "answer_1": "Pour-over, Chemex, or V60 filter",
+            "products_1": "4",
+            "answer_2": "Espresso machine, Moka pot, or traditional drip",
+            "products_2": "1",
+            "answer_3": "French press, Aeropress, or cold brew",
+            "products_3": "2.3"
+          }
+        },
+        "question_WLJjQQ": {
+          "type": "question",
+          "settings": {
+            "question": "What is your favorite flavor profile?",
+            "answer_1": "Sweet milk chocolate, caramel, and toasted nuts",
+            "products_1": "1",
+            "answer_2": "Juicy red berries, tropical fruits, and honey sweetness",
+            "products_2": "2,3",
+            "answer_3": "Bright citrus fruits, jasmine flowers, and tea-like notes",
+            "products_3": "4"
+          }
+        },
+        "question_kgJHFb": {
+          "type": "question",
+          "settings": {
+            "question": "How do you like to drink your coffee?",
+            "answer_1": "Always with milk, cream, or sugar",
+            "products_1": "1,3",
+            "answer_2": "Strictly black to taste the delicate aroma",
+            "products_2": "4",
+            "answer_3": "Black or iced to enjoy the juicy sweetness",
+            "products_3": "2"
+          }
+        }
+      },
+      "block_order": [
+        "question_piKqx8",
+        "question_7fKqd6",
+        "question_WLJjQQ",
+        "question_kgJHFb"
+      ],
+      "name": "Product quiz",
+      "settings": {
+        "quiz_heading": "Choose your coffee",
+        "quiz_subheading": "choose best coffee for your theist",
+        "image": "shopify://shop_images/Package10.avif",
+        "product_1": "coffee-beans-brazil-yellow-catuai",
+        "product_1_title": "",
+        "product_2": "coffee-beans-colombia-pink-bourbon",
+        "product_2_title": "",
+        "product_3": "coffee-beans-costa-rica-caturra-catual",
+        "product_3_title": "",
+        "product_4": "coffee-beans-ethiopia-heirloom",
+        "product_4_title": "",
+        "coupon_code": "RAB0GHXXGB80",
+        "coupon_discount_amount": 10,
+        "coupon_discount_type": "percentage",
+        "padding_top": 2,
+        "padding_bottom": 2,
+        "background_color": "#f4f4f4",
+        "text_color": "#0f1012",
+        "accent_color": "#6d3e1c",
+        "coupon_border_color": "#e96134",
+        "coupon_background_color": "#f4fbf3",
+        "coupon_text_color": "#163c28"
+      }
+    },
+    "hero_banner_faJK3w": {
+      "type": "hero-banner",
+      "name": "Hero Banner Pro",
+      "settings": {
+        "layout": "split",
+        "height": "large",
+        "content_alignment": "left",
+        "image": "shopify://shop_images/sergey-kotenev-kfnLPPR0FzI-unsplash.avif",
+        "video_url": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 60,
+        "section-color_scheme": "scheme-1",
+        "subheading": "Coffe Shop",
+        "heading": "<p>Your Best Morning Starts Here</p>",
+        "heading_tag": "h2",
+        "body": "<p>Rich aromas and deep flavors to fuel your day.</p>",
+        "countdown_date": "2026/12/20 20:30:00",
+        "button_label": "Shop Now",
+        "button_link": "/collections/all",
+        "button_style": "primary",
+        "button_label_2": "Coffee",
+        "button_link_2": "shopify://collections/all",
+        "button_style_2": "primary"
+      }
+    },
+    "multi_section_row_PaetTL": {
+      "type": "multi-section-row",
+      "blocks": {
+        "multi_section_TEX7cJ": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/mae-mu-b75BTzDab9U-unsplash.avif",
+            "title": "How should I store my coffee beans?",
+            "title_size": 16,
+            "description": "<p>Keep beans in an airtight container away from heat, light, and moisture.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/how-to-store-coffee-beans-for-maximum-freshness"
+          }
+        },
+        "multi_section_b6Cgmg": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/dang-cong-JqF4IS65xEg-unsplash.avif",
+            "title": "Are your coffee beans organic?",
+            "title_size": 16,
+            "description": "<p>Yes our beans are organic and we source 100% of them ethically</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/origin-spotlight-from-ethiopian-peaks-to-colombian-hills"
+          }
+        },
+        "multi_section_rwBQ77": {
+          "type": "multi-section",
+          "settings": {
+            "image": "shopify://shop_images/katy-tomei-PX6t5jB5I7k-unsplash.avif",
+            "title": "Do you offer pre-ground coffee?",
+            "title_size": 16,
+            "description": "<p>We offer whole bean options along with specific grind sizes for espresso, drip, and French press.</p>",
+            "link_text": "Read More",
+            "url": "shopify://blogs/news/step-by-step-brew-guide-elevate-your-home-barista-game"
+          }
+        }
+      },
+      "block_order": [
+        "multi_section_TEX7cJ",
+        "multi_section_b6Cgmg",
+        "multi_section_rwBQ77"
+      ],
+      "name": "Multi Section Row",
+      "settings": {
+        "color_scheme": "",
+        "block-item_content": "center"
+      }
+    },
+    "custom_flexbox_LxdkG7": {
+      "type": "custom-flexbox",
+      "blocks": {
+        "wrapper_M4j4i4": {
+          "type": "wrapper",
+          "name": "Section Flexbox",
+          "settings": {
+            "gap": 0,
+            "flex_direction": "row",
+            "align_items": "stretch",
+            "flex_direction_mobile": "column"
+          },
+          "blocks": {
+            "container_ckYUp6": {
+              "type": "container",
+              "name": "Container",
+              "settings": {
+                "width": 100,
+                "background_color": "",
+                "color_scheme": "",
+                "border_radius": 0,
+                "gap": 20,
+                "padding_vertical": 30,
+                "padding_horizontal": 0,
+                "flex_direction": "column",
+                "css_id": "",
+                "css_class": ""
+              },
+              "blocks": {
+                "image_PBX4Ep": {
+                  "type": "image",
+                  "name": "Image",
+                  "settings": {
+                    "image": "shopify://shop_images/timothy-barlin-VUeK-cn0zAg-unsplash.avif",
+                    "alt": "",
+                    "width": 500,
+                    "horizontal_align": "left",
+                    "margin_bottom": 0,
+                    "horizontal_align_mobile": "left"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "image_PBX4Ep"
+              ]
+            },
+            "container_diVH7x": {
+              "type": "container",
+              "name": "Container",
+              "settings": {
+                "width": 100,
+                "background_color": "",
+                "color_scheme": "",
+                "border_radius": 0,
+                "gap": 20,
+                "padding_vertical": 30,
+                "padding_horizontal": 0,
+                "flex_direction": "column",
+                "css_id": "",
+                "css_class": ""
+              },
+              "blocks": {
+                "heading_Jc3wQg": {
+                  "type": "heading",
+                  "name": "Heading",
+                  "settings": {
+                    "heading": "Our Store",
+                    "tag": "h2",
+                    "text_align": "start",
+                    "margin_bottom": 0,
+                    "text_align_mobile": "left"
+                  },
+                  "blocks": {}
+                },
+                "rich_text_9KKKXd": {
+                  "type": "rich-text",
+                  "name": "Text",
+                  "settings": {
+                    "text": "<p>We believe great coffee starts long before it reaches your cup. It begins in the rich soil of high-altitude farms, tended by hands with generations of growing knowledge. Founded with a simple passion for pure flavor, our mission is to source, roast, and share the finest ethically-grown beans from around the world. We partner directly with farmers who respect the land, ensuring every batch honors both the origin and the craft.</p>",
+                    "text_align": "left",
+                    "margin_bottom": 0,
+                    "text_align_mobile": "left"
+                  },
+                  "blocks": {}
+                },
+                "button_bzHMDm": {
+                  "type": "button",
+                  "name": "Button",
+                  "settings": {
+                    "button_text": "Shop now",
+                    "button_url": "shopify://collections/all",
+                    "button_target": "_self",
+                    "button_style": "primary",
+                    "button_width": "auto",
+                    "button_align": "center",
+                    "margin_top": 0,
+                    "margin_bottom": 0,
+                    "button_align_mobile": "left"
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "heading_Jc3wQg",
+                "rich_text_9KKKXd",
+                "button_bzHMDm"
+              ]
+            }
+          },
+          "block_order": [
+            "container_ckYUp6",
+            "container_diVH7x"
+          ]
+        }
+      },
+      "block_order": [
+        "wrapper_M4j4i4"
+      ],
+      "name": "Section Flexbox",
+      "settings": {
+        "color_scheme": "",
+        "background_color": "",
+        "background_size": "cover",
+        "background_repeat": "no-repeat",
+        "background_position_x": 50,
+        "background_position_y": 50,
+        "fullwidth": false,
+        "gap": 50,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "css_id": "",
+        "css_class": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow_PB89Nb",
+    "featured_collection",
+    "1786884207c1a5a27b",
+    "purelane_categories_idYLUe",
+    "custom_flexbox_KN96Bq",
+    "multi_section_Vgen6z",
+    "avpc_product_quiz_KJeU7w",
+    "hero_banner_faJK3w",
+    "multi_section_row_PaetTL",
+    "custom_flexbox_LxdkG7"
+  ]
+}
